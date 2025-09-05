@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**duncanmelsens-hub/duncanmelsens-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Duncan Melsens
+Ik ben een student in VTI Waregem in 6ADT.
+## Ervaring
+- Petersime vakantiejob Jul 2025
+- Comfort Cleaning vakantiejob Jul 2024
+## Skills
+- C#
+- HTML
+- Blazor
+- Css
+- SQL
+- Ubuntu
+- Python
+- WPF
+## Projects
+- 5ADT eindwerk reversi game - Sep 2024-Jun 2025
+- 4EE lichtkubus - Jan 2023-Jun 2024
+- 6ADT GIP - Sep 2025-Jun 2026
+- 5ADT Pong Feb 2025
+## Schoolopleiding
+- STEM technieken
+- STEM wetenschappen
+- Game design
+- Technologische wetenschappen electriciteit en electronica/ict
+- Applicatie en databeheer
+## Contact
+- Locatie: Olsene, België
+- Gsm: +32 493 87 54 31
+- Email: duncan.melsens@telenet.be
