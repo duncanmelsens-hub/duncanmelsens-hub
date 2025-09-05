@@ -23,7 +23,7 @@ Ik ben een student in VTI Waregem in 6ADT.
 - Game design
 - Technologische wetenschappen electriciteit en electronica/ict
 - Applicatie en databeheer
-## Contact
+## 🌐Contact
 - 📍Locatie: Olsene, België
-- 📞Gsm: +32 493 87 54 31
+- 📞Gsm: +32 493 87 54 32
 - ✉️Email: duncan.melsens@telenet.be
