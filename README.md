@@ -1,8 +1,8 @@
 # Duncan Melsens
 Ik ben een student in VTI Waregem in 6ADT.
 ## Ervaring
-- Petersime vakantiejob Jul 2025
-- Comfort Cleaning vakantiejob Jul 2024
+- 🐣Petersime vakantiejob Jul 2025
+- 🧹Comfort Cleaning vakantiejob Jul 2024
 ## Skills
 - C#
 - HTML
@@ -17,13 +17,13 @@ Ik ben een student in VTI Waregem in 6ADT.
 - 4EE lichtkubus - Jan 2023-Jun 2024
 - 6ADT GIP - Sep 2025-Jun 2026
 - 5ADT Pong Feb 2025
-## Schoolopleiding
+## 🕮Schoolopleiding
 - STEM technieken
 - STEM wetenschappen
 - Game design
 - Technologische wetenschappen electriciteit en electronica/ict
 - Applicatie en databeheer
 ## Contact
-- Locatie: Olsene, België
-- Gsm: +32 493 87 54 31
-- Email: duncan.melsens@telenet.be
+- 📍Locatie: Olsene, België
+- 📞Gsm: +32 493 87 54 31
+- ✉️Email: duncan.melsens@telenet.be
